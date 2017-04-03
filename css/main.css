@@ -8,15 +8,15 @@ body {
 	font-size: 24px !important;
 }
 
-.bxslider li {
-	cursor: crosshair;
+.bxslider li a {
+	cursor: help;
 }
 
 .bxslider li img {
 	transition: all 0.3s;
 }
 
-.bxslider li:hover img {
+.bxslider li a:hover img {
 	-moz-transform: scale(1.1);
 	-webkit-transform: scale(1.1);
 	transform: scale(1.1);
