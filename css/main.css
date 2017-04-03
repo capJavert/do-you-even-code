@@ -11,3 +11,12 @@ body {
 .bxslider li {
 	cursor: crosshair;
 }
+
+.page-scroll.dark-version {
+	border-color: #000000;
+	color: #000000;
+}
+
+.banner-social-buttons li {
+	margin-bottom: 15px;
+}
