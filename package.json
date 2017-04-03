@@ -1,0 +1,21 @@
+{
+  "name": "Do you even code?",
+  "version": "0.0.1",
+  "release": "",
+  "description": "",
+  "author": "Ante Barić",
+  "logo": "",
+  "bugs": "",
+  "license": "MIT",
+  "licenseUrl": "http://www.opensource.org/licenses/mit-license.php",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/capJavert/do-you-even-code"
+  },
+  "scripts": {
+  },
+  "keywords": [
+  ],
+  "devDependencies": {
+  }
+}
