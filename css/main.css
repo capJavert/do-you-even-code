@@ -12,6 +12,16 @@ body {
 	cursor: crosshair;
 }
 
+.bxslider li img {
+	transition: all 0.3s;
+}
+
+.bxslider li:hover img {
+	-moz-transform: scale(1.1);
+	-webkit-transform: scale(1.1);
+	transform: scale(1.1);
+}
+
 .page-scroll.dark-version {
 	border-color: #000000;
 	color: #000000;
